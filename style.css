@@ -34,7 +34,7 @@ page[size=A4] {
 }
 
 @media print {
-  body,
+  
 page {
     margin: 0;
     box-shadow: 0;
@@ -99,7 +99,7 @@ a:hover{
   letter-spacing: 1px;
 }
 .skills{
-  margin-bottom: 1.5rem;
+  margin-bottom: 1rem;
   
 }
 .footer {
